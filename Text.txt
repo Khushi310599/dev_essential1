@@ -2,3 +2,6 @@ colors
 
 pink
 blue
+
+janki 
+vaidehi
